@@ -2,7 +2,7 @@ This repository is a research archive dedicated to exploring claims, documentati
 
 The goal of this project is to gather, organize, and analyze publicly available evidence, academic research, and personal testimonies concerning alleged remote influencing and related forms of psychological or technological coercion.
 
-Purpose
+**Purpose**
 
 To compile documents, academic studies, and credible news reports concerning neurotechnology, neurowarfare, and psychological operations.
 
@@ -10,7 +10,7 @@ To preserve and categorize personal accounts of individuals who report experienc
 
 To encourage critical, transparent, and ethical discussion of potential technological abuse, disinformation, and fear-based control tactics in modern society.
 
-Disclaimer
+**Disclaimer**
 
 This repository is intended for research and educational purposes only.
 It does not assert any claim or theory as fact without verifiable evidence.
