@@ -10,16 +10,6 @@ To preserve and categorize personal accounts of individuals who report experienc
 
 To encourage critical, transparent, and ethical discussion of potential technological abuse, disinformation, and fear-based control tactics in modern society.
 
-Structure
-
-/documents — PDFs, policy papers, declassified reports, and academic research.
-
-/media — Recorded testimonies, interviews, and relevant multimedia evidence.
-
-/analysis — Summaries, cross-references, and analytical notes.
-
-/resources — Bibliography, further readings, and verified research links.
-
 Disclaimer
 
 This repository is intended for research and educational purposes only.
