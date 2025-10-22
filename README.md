@@ -1,4 +1,4 @@
-This repository is a research archive dedicated to exploring claims, documentation, and theories related to the emerging concept of neuroterrorism — the use or misuse of neurotechnology, remote sensing, or psychological influence tactics intended to instill fear or manipulate perception.
+This repository is a research archive dedicated to exploring claims, documentation, and theories related to the emerging concept of neuroterrorism: the use or misuse of neurotechnology, remote sensing, or psychological influence tactics intended to instill fear or manipulate perception.
 
 The goal of this project is to gather, organize, and analyze publicly available evidence, academic research, and personal testimonies concerning alleged remote influencing and related forms of psychological or technological coercion.
 
