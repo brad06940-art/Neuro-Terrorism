@@ -15,3 +15,5 @@ To encourage critical, transparent, and ethical discussion of potential technolo
 This repository is intended for research and educational purposes only.
 It does not assert any claim or theory as fact without verifiable evidence.
 All interpretations, testimonies, and documents are presented for open-source investigation and analysis, not for the promotion of conspiracy narratives.
+
+https://substack.com/@warrenburns
